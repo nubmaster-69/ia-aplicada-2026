@@ -1,7 +1,7 @@
 # Tabla Comparativa de Sesgos — Sistema de Prevención de Incendios en Edificios Inteligentes
 
 | # | Tipo de sesgo | Etapa del ciclo de vida | Origen del problema | Ejemplo concreto en el proyecto | Impacto principal | Mitigación sugerida |
-|---|---------------|-------------------------|---------------------|--------------------------------|-------------------|---------------------|
+|---|---------------|-------------------------|----------------------|----------------------------------|--------------------|------------------------|
 | 1 | **Histórico** | Antes de recolectar datos | El mundo real ya es desigual; los datos lo reflejan fielmente | Zonas de bajos ingresos con menos sensores registran menos incendios aunque el riesgo sea mayor | Subestimación del riesgo en poblaciones vulnerables | Auditar cobertura histórica por zona; ponderar o complementar con datos de bomberos/censo |
 | 2 | **Representación** | Recolección / muestreo | La muestra no refleja la diversidad real de edificios | Exceso de oficinas nuevas con IoT frente a vivienda, industria o uso mixto | El modelo generaliza mal a tipologías no vistas | Muestreo estratificado por tipología, antigüedad, clima y material |
 | 3 | **Medición** | Instrumentación / etiquetado | Los instrumentos y las etiquetas distorsionan el fenómeno | Sensores de distintos fabricantes con sensibilidades distintas; sensor cerca de cocina | El modelo aprende artefactos del hardware, no señal de incendio | Normalizar por fabricante y ubicación; protocolo de etiquetado y calibración |
