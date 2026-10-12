@@ -1,0 +1,23 @@
+# Selección de modelo generativo para el proyecto [CHATGPT,GEMINI, AI STUDIO,]
+
+## Modelos evaluados
+
+Lista los modelos que probaste en este laboratorio y en la semana 1 (ChatGPT, Gemini, Deepseek, el modelo de AI Studio).
+
+## Evidencia de tokens
+
+Tokens de mi documento de referencia: [valor del Paso 1.3]. Caracteres por token en español: [valor]. Implicación para mi proyecto: [una o dos líneas].
+
+## Evidencia de temperatura
+
+Temperatura que usaré para tareas de precisión: [valor] porque [dato de la tabla del Paso 2.3].
+
+Temperatura que usaré para tareas creativas: [valor] porque [dato].
+
+## Evidencia de contexto
+
+El modelo empezó a fallar con aproximadamente [tokens] en el intento [n]. Mis documentos del proyecto miden aproximadamente [tokens]. Por lo tanto: [caben completos / debo dividirlos / debo resumirlos].
+
+## Decisión
+
+Modelo elegido: [nombre]. Configuración: temperatura [valor] para [tarea]. Restricciones de datos según la política de la semana 4: [resumen].
