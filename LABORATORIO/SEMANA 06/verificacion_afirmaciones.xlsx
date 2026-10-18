@@ -1,0 +1,5 @@
+# Verificación de afirmaciones
+
+| ID | Modelo | Afirmación textual | Tipo | Fuente primaria consultada | Resultado | Clasificación | Notas |
+|---|---|---|---|---|---|---|---|
+| A01 | Claude (Semana 4) | La nueva LFPDPPP se publicó en el DOF el 20 de marzo de 2025. | Fecha | Texto vigente en Orden Jurídico Nacional: https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo125102.html | El encabezado dice «publicada en el DOF el 20 de marzo de 2025» y el decreto cierra con esa fecha. | Correcta | [Tras leer la fuente] |
