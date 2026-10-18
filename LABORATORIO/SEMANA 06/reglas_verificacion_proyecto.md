@@ -1,10 +1,16 @@
-Regla 1 (Cifras estadísticas):
-Antes de incluir cualquier cifra estadística o dato numérico sobre incidentes de seguridad generado por IA en el reporte del proyecto, se debe consultar el informe original en PDF o sitio del organismo emisor (Fortinet, Kaspersky, INEGI, etc.), porque en este laboratorio el 100% de las cifras numéricas generadas contenían errores de magnitud o de atribución geográfica.
-Regla 2 (Referencias y DOIs):
-Antes de dar por válida una referencia bibliográfica o cita en formato APA, se debe verificar la existencia del documento en Google Scholar o resolver su DOI/URL oficial, porque los modelos tienden a construir enlaces genéricos o asociar autores reales a documentos con títulos alterados.
-Regla 3 (Contradicciones entre modelos):
-Antes de redactar un apartado normativo donde dos modelos de IA entreguen información divergente, se debe recurrir de forma obligatoria al texto íntegro en la Cámara de Diputados o DOF para validar la vigencia del artículo, porque los modelos pueden citar versiones abrogadas o modificar la denominación exacta de la norma.
-Regla 4 (Validación obligatoria de Leyes y Normas):
-Nunca se aceptará sin verificación previa el número de clave o fecha de publicación de una norma o ley presentada por una IA, exigiendo el cotejo contra el Diario Oficial de la Federación. 
-Regla 5 (Trazabilidad y respaldo documental):
-Antes de incorporar cualquier afirmación generada por la IA al entregable final, se debe registrar la fuente primaria en la hoja de verificación del proyecto, porque el tono convincente del modelo no garantiza veracidad y el equipo debe responder profesionalmente por los datos reportados
+# Reglas de verificación del proyecto
+
+## Regla 1. Cifras estadísticas
+Antes de incluir cualquier cifra estadística o dato numérico sobre incidentes de seguridad generado por IA en el reporte del proyecto, se debe consultar el informe original en PDF o el sitio del organismo emisor (Fortinet, Kaspersky, INEGI, etc.), porque en este laboratorio el 100 % de las cifras numéricas generadas contenían errores de magnitud o de atribución geográfica.
+
+## Regla 2. Referencias y DOIs
+Antes de dar por válida una referencia bibliográfica o cita en formato APA, se debe verificar la existencia del documento en Google Scholar o resolver su DOI/URL oficial, porque los modelos tienden a construir enlaces genéricos o a asociar autores reales con documentos de títulos alterados.
+
+## Regla 3. Contradicciones entre modelos
+Antes de redactar un apartado normativo donde dos modelos de IA entreguen información divergente, se debe recurrir de forma obligatoria al texto íntegro en la Cámara de Diputados o en el DOF para validar la vigencia del artículo, porque los modelos pueden citar versiones abrogadas o modificar la denominación exacta de la norma.
+
+## Regla 4. Validación obligatoria de leyes y normas
+Nunca se aceptará sin verificación previa el número de clave o la fecha de publicación de una norma o ley presentada por una IA, y se exigirá el cotejo contra el Diario Oficial de la Federación.
+
+## Regla 5. Trazabilidad y respaldo documental
+Antes de incorporar cualquier afirmación generada por la IA al entregable final, se debe registrar la fuente primaria en la hoja de verificación del proyecto, porque el tono convincente del modelo no garantiza veracidad y el equipo debe responder profesionalmente por los datos reportados.
